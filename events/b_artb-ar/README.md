@@ -34,7 +34,7 @@ title: b.Art Bar
 # and displayed on the /events page. Keep it short.
 # Linebreaks are ignored, but they _must_ start with two spaces.
 description:
-  Drinks and NFT's every day of DevConnect at Meet Berlage
+  Your portal to Amsterdam culture and nightlife during Devconnect
 
 #####################
 ### EVENT DETAILS ###
@@ -50,14 +50,12 @@ name: b.Art Bar
 # Add or remove paragraphs as needed, but remember the hyphen before each entry.
 synopsis:
   -
-    Everyday from 17 to 19hrs drinks will be served at the Meet Berlage lobby to leave work behind and get ready for the cultural vibe of the Amsterdam nightlife.
-  -
-    In the b.Art Bar artists exploring the power of NFT’s are taken into the light of the Ethereum community. Artworks are being displayed, DJ’s fill the bar with eminent vibes while performance artists also take the floor. Have a beer and enjoy!
+    During Devconnect the Blockdam Community hosts the b.Art Bar. Share drinks and some laughs at the the end of an exhausting working day. Our community is also available if you are looking for ideas to enjoy the Amsterdam culture and nightlife. Drop in and enjoy!
 
 
 # The date should be in the format year-month-day (ISO 8601).
 # Example: 2018-02-28
-date: 2022-04-18
+date: 2022-04-19
 # The date when the event ends. Can be left empty or set to the same day the
 # event starts.
 endDate: 2022-04-25
@@ -65,12 +63,12 @@ endDate: 2022-04-25
 # Set the time in 24 hours format, surrounded by quotes.
 # _Only_ the starting time!
 # Example: '18:00'
-time: '17:00'
+time: '18:00'
 # Time when the event ends. Can be left empty.
-endTime: '19:00'
+endTime: '20:00'
 
 # The URL where to akquire the tickets. Can be left empty.
-tickets: https://www.meetup.com/nl-NL/Permissionless-Society/events/
+tickets: https://b-art-bar.blockdam.nl
 
 # If the entrance is free, set zero (0) as the price
 # If there is no info on the price or pricing is too complex to put here, leave it empty.
@@ -78,11 +76,11 @@ tickets: https://www.meetup.com/nl-NL/Permissionless-Society/events/
 price:
 
 # The name of the venue where the event will be held. Can be left empty.
-venue: Meet Berlage lobby
+venue: Devconnect co-working space @Beurs van Berlage
 
 # The address to link to a Google map. Please test the address on Google Maps.
 # Example: Skalitzer Strasse 85-86, 10997 Berlin, Germany
-address: Oudebrugsteeg 9, 1012 JN Amsterdam, Netherlands
+address: Damrak 243, 1012 ZJ Amsterdam, Netherlands
 
 # The category of the event. Valid options:
 # - conference
